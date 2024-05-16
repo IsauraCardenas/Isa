@@ -48,12 +48,12 @@ main {
 .weather-app-details {
   font-size: 16px;
   line-height: 24px;
-  color: rgba(30, 33, 66, 0.4);
+  color: rgba(30, 33, 66, 0.7);
   font-weight: 500;
 }
 
 .weather-app-details strong {
-  color: rgb(170, 83, 97);
+  color: rgb(219, 70, 67);
 }
 
 .weather-app-temperature-container {
